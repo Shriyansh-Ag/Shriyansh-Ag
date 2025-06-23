@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Shriyansh Agarwal</h1>
 <h3 align="center">A Data Scientist and ML engineer from India. Passionate about Big Data & MLOPs</h3>
 
-(img align="right" alt="Coding" width="400" src="https://pixabay.com/illustrations/ai-generated-code-face-data-9599756/")
+<img align="right" alt="Coding" width="400" src="https://pixabay.com/illustrations/ai-generated-code-face-data-9599756/")></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriyansh-ag&label=Profile%20views&color=0e75b6&style=flat" alt="shriyansh-ag" /> </p>
 
