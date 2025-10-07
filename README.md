@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shriyansh.mait@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G3Wy2zISrXaV1IxUhnRWxFhbpES6wcvs/view](https://drive.google.com/file/d/1G3Wy2zISrXaV1IxUhnRWxFhbpES6wcvs/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BlTCRnO7RmGZb3sDRMq-4KoSue2vO9ML/view](https://drive.google.com/file/d/1BlTCRnO7RmGZb3sDRMq-4KoSue2vO9ML/view)
 
 - ⚡ Fun fact **I can code and sleep at the same time**
 
